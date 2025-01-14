@@ -1,0 +1,252 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.a_header{
+    font-size: 33px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    font-family: "Rubik";
+}
+.span_header{
+    font-size: 33px;
+    font-weight: 500;
+    color: orange;
+    font-family: "Rubik";
+}
+.ul_header{
+    display: flex;
+    width: 444px;
+    justify-content: space-between;
+    margin-right: 34px;
+}
+li{
+    list-style: none;
+}
+.li_header{
+    color: #FF6838;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Rubik";
+    text-decoration: none;
+    
+}
+.li_header1{
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Rubik";
+    text-decoration: none;
+}
+.Button_header{
+    width: 120px;
+    height: 50.41px;
+    border-radius: 5px;
+    color: white;
+    font-family: "Rubik";
+    background-color: #FF6838;
+    border: none;
+}
+.div_header{
+    display: flex;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    width: 1170px;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 54px;
+}
+.h2_main{
+    width: 530px;
+    flex-wrap: wrap;
+    font-size: 66px;
+    font-family: "Rubik";
+    color: #363853;
+}
+.span_main{
+    width: 530px;
+    flex-wrap: wrap;
+    font-size: 66px;
+    font-family: "Rubik";
+    color: #FF6838;
+}
+.div_main{
+    display: flex;
+    align-items: center;
+    margin-top: 52.23px;
+}
+.p_main{
+    color: #363853;
+    width: 513px;
+    flex-wrap: wrap;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Rubik";
+}
+.bola_main{
+    
+    width: 513px;
+    margin-top: 23px;
+}
+.button_main{
+    width: 163px;
+    height: 50.41px;
+    color: white;
+    background-color: #FF6838;
+    border: none;
+    margin-top: 44.78px;
+    font-weight: 400;
+    font-size: 20px;
+}
+.h2_main1{
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Rubik";
+    color: #363853;
+    width: 384px;
+    flex-wrap: wrap;
+}
+.span_main1{
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Rubik";
+    color: #FF6838;
+}
+.p_main1{
+    font-weight: 400;
+    font-family: "Rubik";
+    width: 449px;
+    flex-wrap: wrap;
+    font-size: 20px;
+    margin-top: 95px;
+}
+.button_main1{
+    width: 176px;
+    height: 58px;
+    background-color:#FF6838;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: none;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: "Rubik";
+    margin-top: 141px;
+}
+.h3{
+    font-family: "Rubik";
+    color: #363853;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 22px;
+}
+.div_main1{
+    display: flex;
+    gap: 43px;
+}
+.button{
+    width: 79px;
+    height: 33px;
+    background-color: #FF6838;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    color: white;
+    font-size: 14px;
+}
+.p_bola_main{
+    font-family: "Rubik";   
+    font-weight: 300;
+    font-size: 18px;
+    margin-top: 14px;
+    width: 163px;}
+   
+
+.hhh{
+    width: 272px;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.h2_mn{
+    color: #363853;
+    font-size: 36px;
+    font-family: "Rubik";
+    text-align: center;
+    margin-bottom: 50px; 
+}
+.h2_mn_span{
+    color: #FF6838;
+    font-size: 36px;
+    font-family: "Rubik";
+}
+.ota_main{
+    margin-top: 162px;
+    display: flex;
+    gap: 20.17px;
+    align-items: center;
+}
+.h2_main2{
+    color: #363853;
+    width: 454px;
+    font-weight: 500;
+    font-family: "Rubik";
+    font-size: 36px;
+} 
+.span_main2{
+    color: #FF6838;
+    width: 454px;
+    font-weight: 500;
+    font-family: "Rubik";
+    font-size: 36px;
+}
+.p_main_bola{
+    width: 583px;
+    flex-wrap: wrap;
+    color: #363853;
+    font-family: "Rubik";
+    font-size: 20px;
+    margin-top: 30px;
+}
+.footer{
+    width: 1170px;
+    background-color: #FF6838;
+    margin: 0 auto;
+    padding-top: 59px;
+}
+.h2_footer{
+    color: white;
+    font-weight: 500;
+    font-family: "Rubik";
+    font-size: 40px;
+    text-align: center; 
+    
+}
+form{
+    padding: 0 auto;
+
+}
+.input{
+    width: 838.5px;
+    height: 78px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Rubik";
+    padding-left: 43.55px;
+    border-radius: 70px;
+    margin-bottom: 56.55px;
+    margin-top: 72.45px;
+}
